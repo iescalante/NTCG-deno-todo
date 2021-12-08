@@ -6,6 +6,8 @@ What is different from the course is how to use await async for POST and PUT whe
 
 You will need Deno CLI installed in your computer in order to make this work and perhaps use the Deno extension from Denoland to not make your IDE go crazy. Also CTRL+SHIFT+P to Initialize Workspace Configuration and allow Linting as well as unstable APIs if you wish to use the extension to make it work properly.
 
+You can use any API client (Insomnia, Postman, etc) to use the routes.
+
 - To run the Deno REST API, you will need to `cd deno` and from there you will be able to run the command
   `deno run --allow-net app.ts`
 
